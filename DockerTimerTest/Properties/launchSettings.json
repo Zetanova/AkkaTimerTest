@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DockerTimerTest": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
